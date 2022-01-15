@@ -1,2 +1,2 @@
-# Anime-bot
+# discord-bot
 Source code of my bot.
